@@ -1,6 +1,4 @@
 # Tutorials
 Programming and Computer Related Tutorials
 
-
-
-This is a Test
+## How to Install Git
